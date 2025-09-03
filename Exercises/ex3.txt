@@ -11,7 +11,7 @@ Stop if there is any pain.
 Instruction2:
 1. Prepare a scoop in front of you.
 2. Sit comfortably with your right hand on the table.
-3. Turn your palm facing down. 
+3. Turn your palm facing down.
 4. Slowly rotate your forearm to turn your palm facing up.
 5. Rotate your forearm again to turn your palm facing down.
 6. Grab a scoop with your right hand.
@@ -21,16 +21,17 @@ Instruction2:
 10. Rest your right hand.
 
 Instruction3:
-1. Prepare a scoop in front of you.
-2. Sit comfortably with your right hand on the table.
-3. Turn your palm facing down.
-4. Slowly rotate your forearm to turn your palm facing up.
-5. Rotate your forearm again to turn your palm facing down.
-6. Grab a scoop with your right hand.
-7. Rotate your forearm to turn your palm up while holding the scoop.
-8. Rotate your forearm to turn your palm down while holding the scoop.
-9. Place the scoop on the table
-10. Rest your right hand.
+1. Prepare a scoop in front of you.,
+2. Sit comfortably with your right hand on the table.,
+3. Turn your palm facing down.",
+4. Slowly rotate your forearm to turn your palm facing up.,
+5. Rotate your forearm again to turn your palm facing down.,
+6. Lift your hand from the table, while stabilizing your elbow on the table.
+7. Grab a scoop with your right hand.,
+8. Rotate your forearm to turn your palm up, while holding the scoop.,
+9. Rotate your forearm to turn your palm down, while holding the scoop.,
+10. Place the scoop on the table,
+11. Rest your right hand.
 
 Instruction4:
 1. "Put the scoop in your right hand.",

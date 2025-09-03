@@ -30,7 +30,7 @@ Instruction3:
 6. "Move the cube to your right.",
 7. "Place the cube on the side of the table and gently let it go.",
 8. "Lower your hand and pick up the banana.",
-9."Lift your arm to bring the banana up towards your face, bending your elbow as much as the brace will allow.",
+9. "Lift your arm to bring the banana up towards your face, bending your elbow as much as the brace will allow.",
 10. "If the object is too heavy, move your arm out horizontally instead of lifting the banana high.",
 11. "Place the banana gently on the table.",
 12. "Grab the last cube in the bowl and try to lift it a little bit higher if possible.",
